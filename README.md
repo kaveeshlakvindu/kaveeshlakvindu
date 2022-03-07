@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **Nothing is true.Everything is permitted ♥️**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveeshlakvindu&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaveeshlakvindu&theme=github_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveeshlakvindu&theme=github_dark) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
