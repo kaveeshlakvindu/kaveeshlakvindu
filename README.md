@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaveesh Lakvindu</h1>
 <h3 align="center">A Discord Bot developer from Sri Lanka</h3>
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I like making discord bots, also stepping on other various projects & ideas!
 
