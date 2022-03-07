@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaveesh Lakvindu</h1>
 <h3 align="center">A Discord Bot developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaveeshlakvindu" alt="kaveeshlakvindu" /></a> </p>
-
 - 🔭 I’m currently working on **SriVerse Roleplay**
 
 - 📫 How to reach me **admin@sriverse.net**
@@ -12,7 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kaveeshlakvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveeshlakvindu" height="30" width="40" /></a>
-<a href="https://instagram.com/@__mr.kl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@__mr.kl__" height="30" width="40" /></a>
+<a href="https://instagram.com/__mr.kl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr.kl__" height="30" width="40" /></a>
+<a href="https://www.behance.net/kaveeshlakvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kaveeshlakvindu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrklofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrklofficial" height="30" width="40" /></a>
 <a href="https://discord.gg/4RSj6wk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4RSj6wk" height="30" width="40" /></a>
 </p>
