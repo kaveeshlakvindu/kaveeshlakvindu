@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Nothing is true.Everything is permitted ♥️**
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaveeshlakvindu&theme=github_dark)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kaveeshlakvindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveeshlakvindu" height="30" width="40" /></a>
