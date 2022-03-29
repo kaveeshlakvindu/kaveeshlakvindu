@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kaveesh Lakvindu</h1>
-<h3 align="center">A Discord Bot developer from Sri Lanka</h3>
 
 ![](https://images-ext-1.discordapp.net/external/UCBEjylG_Kq1_i3Lf7w5lSqnRi9sl7GXAW8W16rM0AM/https/media.discordapp.net/attachments/702436021186330684/890109629772755004/Dis_Banner.png)
 
