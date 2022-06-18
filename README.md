@@ -2,7 +2,7 @@
 
 ![](https://images-ext-1.discordapp.net/external/UCBEjylG_Kq1_i3Lf7w5lSqnRi9sl7GXAW8W16rM0AM/https/media.discordapp.net/attachments/702436021186330684/890109629772755004/Dis_Banner.png)
 
-<h4> I like making discord bots, also stepping on other various projects & ideas! </h4>
+<h4> I am a Digital Designer & Esports Promoter. I have worked with hundreds of content creators, streamers & organisations providing high quality design work since 2019. </h4>
 
 - 🔭 I’m currently working on **SriVerse Roleplay**
 
