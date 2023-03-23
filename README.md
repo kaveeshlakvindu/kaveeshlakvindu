@@ -4,9 +4,9 @@
 
 <h4> I am a Digital Designer & Esports Promoter. I have worked with hundreds of content creators, streamers & organisations providing high quality design work since 2019. </h4>
 
-- 🔭 I’m currently working on **SriVerse Roleplay**
+- 🔭 I’m currently working on **Subversion Roleplay**
 
-- 📫 How to reach me **admin@sriverse.net**
+- 📫 How to reach me **kaveeshlakvindu@gmail.com**
 
 - ⚡ Fun fact **Nothing is true.Everything is permitted ♥️**
 
